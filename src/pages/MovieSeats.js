@@ -2,8 +2,7 @@ import React from 'react'
 import { Alert } from 'react-native'
 import WebView from 'react-native-webview'
 
-// 自己选个还有空场的电影页面
-const uri = 'https://m.mtime.cn/#!/onlineticket/591722720/'
+const uri = 'https://m.mtime.cn/#!/onlineticket/597839309/'
 
 const INJECT_JS = (window, document) => {
   let submitBtn
